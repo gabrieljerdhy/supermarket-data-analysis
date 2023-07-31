@@ -12,4 +12,4 @@ The script checks the first five entries of the dataset to acquire a general ove
 ### Exploratory Data Analysis
 The exploratory data analysis (EDA) section provides valuable insights into the dataset:
 * The bar plot shows the distribution of customers across different cities, indicating the city with the most customers.
-![barplot]([photos/barplot.PNG]
+![barplot](photos/barplot.PNG)
