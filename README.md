@@ -18,4 +18,4 @@ The exploratory data analysis (EDA) section provides valuable insights into the 
 * The script creates dummy variables for the 'Gender' column and uses bar plots to compare the purchase preferences of male and female customers across different product lines.
 ![female](photos/barplot-female.PNG)
 * A pie chart displays the distribution of different payment methods used by customers.
-![payment](main/payment.PNG)
+![payment](https://github.com/gabrieljerdhy/supermarket-data-analysis/blob/main/payment.PNG)
