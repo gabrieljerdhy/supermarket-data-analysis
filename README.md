@@ -14,7 +14,7 @@ The exploratory data analysis (EDA) section provides valuable insights into the 
 * The bar plot shows the distribution of customers across different cities, indicating the city with the most customers.
  ![barplot](photos/barplot.PNG)
 * The bar plot illustrates the gender distribution of customers and demonstrates that there are nearly equal numbers of male and female clients. 
- ![gender](photos/barplot-gender.PNG)
+ ![gender](photos/gender.PNG)
 * The script creates dummy variables for the 'Gender' column and uses bar plots to compare the purchase preferences of male and female customers across different product lines.
  ![female](photos/barplot-female.PNG)
 * A pie chart displays the distribution of different payment methods used by customers.
