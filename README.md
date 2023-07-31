@@ -22,3 +22,17 @@ The exploratory data analysis (EDA) section provides valuable insights into the 
  ![payment](photos/payment.PNG)
 * Bar plots depict the gross income for each product line, indicating the product lines that generate the most profits.
   ![income](photos/gross_income.PNG)
+* A bar plot shows the average rating for each product line, providing insights into the popularity of products among customers.
+  ![rating](photos/rating.PNG)
+* The analysis includes bar plots for the total sales and quantity sold for each product line, helping to identify popular products and their sales patterns.
+
+### Result of Analysis
+* The total number of customers is 1000, with 501 females and 499 males.
+* The minimum rating is 4, and the maximum rating is 10, with an average rating of 6.97.
+* The product line 'Food & Beverages' receives the highest average rating, indicating its popularity among customers.
+* The product line 'Home & Lifestyle' generates the highest average gross income, while 'Fashion Accessories' generates the lowest.
+* The majority of customers purchase 10 quantities of products in a single transaction.
+* The product line 'Home & Lifestyle' has the highest average total bill, while 'Fashion Accessories' has the lowest.
+* The most common payment method used by customers is 'Ewallet'.
+* The city with the highest number of customers is 'Yangon'.
+Overall, this analysis provides valuable insights into customer preferences, product performance, and payment behavior. These insights can be used to improve marketing strategies, optimize product offerings, and enhance customer satisfaction at the supermarket.
