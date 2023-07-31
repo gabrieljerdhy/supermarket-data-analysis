@@ -25,6 +25,8 @@ The exploratory data analysis (EDA) section provides valuable insights into the 
 * A bar plot shows the average rating for each product line, providing insights into the popularity of products among customers.
   ![rating](photos/rating.PNG)
 * The analysis includes bar plots for the total sales and quantity sold for each product line, helping to identify popular products and their sales patterns.
+  ![sales](photos/total_sales.PNG)
+  ![quantity](photos/quantity.PNG)
 
 ### Result of Analysis
 * The total number of customers is 1000, with 501 females and 499 males.
