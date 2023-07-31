@@ -20,3 +20,5 @@ The exploratory data analysis (EDA) section provides valuable insights into the 
  ![male](photos/male_productline.PNG)
 * A pie chart displays the distribution of different payment methods used by customers.
  ![payment](photos/payment.PNG)
+* Bar plots depict the gross income for each product line, indicating the product lines that generate the most profits.
+  ![income](photos/gross_income.PNG)
